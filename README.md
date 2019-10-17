@@ -9,7 +9,7 @@ In this environment, a double-jointed arm can move to target locations. A reward
 
 The observation space consists of 33 variables corresponding to position, rotation, velocity, and angular velocities of the arm. Each action is a vector with four numbers, corresponding to torque applicable to two joints. Every entry in the action vector should be a number between -1 and 1.
 
- The environment will be considered solved if agent is able to get a reward of +30.
+>**The environment will be considered solved if agent is able to get a reward of +30.**
 
 ## Requirements
 
